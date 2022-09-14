@@ -6,7 +6,7 @@
 typedef unsigned char	  		 	 u8;
 typedef unsigned short int 			 u16;
 typedef unsigned int				 u32;
-typedef unsigned long long int		u64;		// 8 byte
+typedef unsigned long long int		 u64;		// 8 byte
 
 
 typedef signed char					 s8;
